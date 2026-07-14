@@ -1,15 +1,1 @@
-# infos
 
---- Server 1
-
-
-TRON : TB8dKhUtSaF1q5NvqznNy9yEX9CmJeRUbw  
-
-
-ERC20/BEP20: 0x59Cea51FD6a64A342176E8cC7C77B00370Cb5304
-
-
-Solana: FaoCpw2ev4F6dbD83m7mLTdqV3US3WuEa8LY4BatgBwG
-
-
---- Server 2
